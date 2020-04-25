@@ -12,7 +12,7 @@
       <p><b>Aim at obtaining graduate degree in US</b></p>
     </td>
     <td width="40%">
-      <img src="selfphoto.jpg" width="100%",height="100%">     
+      <img src="selfphoto.jpg" width="100%">     
     </td>
   </tr>
 </table>
