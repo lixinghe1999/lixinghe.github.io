@@ -11,7 +11,7 @@
       <p><b>Toefl: 98, GRE: 328</b></p>
     </td>
     <td width="40%">
-      <img src="berkeley.jpg" width="100%",height="100%">     
+      <img src="selfphoto.jpg" width="100%",height="100%">     
     </td>
   </tr>
 </table>
