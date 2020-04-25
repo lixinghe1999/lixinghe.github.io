@@ -1,24 +1,18 @@
 ## Welcome to Lixing He's Homepage
-# Lixing He(何力行)
-#### e-mail: helixing99@gmail.com
-#### UESTC(University of electronic of science and technology of China)
-####
-<p>
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Lixing He(何力行)</h1>
+      <p><b>undergraduate</b></p>
+      <p><b>Automation college of UESTC(University of electronic of science and technology of China, Chengdu)</b></p>
+      <p><b>helixing99@gmail.com</b></p>
+      <p><b>Xiyuan ave 2006, Chengdu</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/berkeley.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
-</p>
 ## Introduction
 ## Experience
 ## award
