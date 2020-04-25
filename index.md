@@ -9,6 +9,7 @@
       <p><b>Xiyuan ave 2006, Chengdu</b></p>
       <p><b>GPA: 90/100, Rank: 9/315</b></p>
       <p><b>Toefl: 98, GRE: 328</b></p>
+      <p><b>Aim at obtaining graduate degree in US</b></p>
     </td>
     <td width="40%">
       <img src="selfphoto.jpg" width="100%",height="100%">     
