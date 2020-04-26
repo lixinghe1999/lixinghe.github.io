@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Lixing He(何力行)</h1>
+      <h1>Lixing He(何力行)</h1><a href="cv.pdf" download>CV</a> <a href="transcript.jpg" download>Transcript</a>
       <p><b>undergraduate</b></p>
       <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
@@ -16,7 +16,8 @@
     </td>
   </tr>
 </table>
-<a href="selfphoto.jpg" download>Link text</a>
+
+
 ## Introduction
 Hello, my name is Lixing He, an undergraduate student from UESTC in China.
 My major is automation and now study in UC Berkeley as visiting student.
