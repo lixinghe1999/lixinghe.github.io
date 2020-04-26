@@ -46,7 +46,7 @@ My previous research project includes circuit design and signal processing, as w
 4. Department leader in student union, 2018, 2019
 
 ## Life
-I am extremely interested in technology, politics & military and chinese culture. Specially, I can read ancient chinese characters faster than modern chinese, feel energetic to think about politics and explore new knowledge of technology.
+I am interested in technology, history, politics, military and Chinese traditional culture. I keep chasing the trend of technology, especially in sensing and control. As for history & politics & military, I feel excited to hear the legends. For example, general Jiang Wei(姜维) tried his best to save the country, and general Washington bravely led the Us independent war. Additionally, I follow the ancient Chinese quotes:" help the people, respect the nature and inherit the great knowledge from past", which is the source of my motivation in study.
 
 ## Skills
 1. Language: Mandarin(Native), English(Professional), C, Python, Matlab.
