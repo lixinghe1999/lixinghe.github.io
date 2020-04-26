@@ -4,7 +4,7 @@
     <td width="75%">
       <h1>Lixing He(何力行)</h1>
       <p><b>undergraduate</b></p>
-      <p><b>Automation college of UESTC(University of electronic of science and technology of China, Chengdu)</b></p>
+      <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
       <p><b>Xiyuan ave 2006, Chengdu</b></p>
       <p><b>GPA: 90/100, Rank: 9/315</b></p>
@@ -29,23 +29,24 @@ My previous research project includes circuit design and signal processing, as w
 1. Visit student of National University of Singapore(Singapore), 2018
 2. Campus electronic design contest(Chengdu, China) 2018
 3. Earth information detection lab, signal processing in well digging(Chengdu, China), 2018, 2019
-4. Undergraduate internship of China Academy Of Engineering Physic(Beijing, China), 2019
-5. National mathematics modelling contest(Chengdu, China), 2019
+4. Undergraduate internship of China Academy Of Engineering Physics, machine learning in physics(Beijing, China), 2019
+5. National mathematics modelling contest, responsible to modelling(Chengdu, China), 2019
 6. Visiting Student of UC Berkeley(Berkeley, US), 2020
-7. Internship student of UC Merced(Merced, US), 2020
+7. Intern student of UC Merced, sensor self-calibration(Merced, US), 2020
 
 ## Award
-1. Great student scholarship of China, 2018, 2019
+1. Great student scholarship of China in UESTC, 2018, 2019
 2. Shiqiang company scholarship, 2019
 3. Liren scholarship, 2018
 
 ## Activities
-1. Volunteer teacher in Dazhou, 2018
-2. Student assistant of human resource department, 2018
+1. Volunteer teacher in Dazhou, Sichuan 2018
+2. Student assistant of human resource department in UESTC, 2018
 3. Recruitment head of UESTC in Jiangxi province, 2018
+4. Department leader in student union, 2018, 2019
 
 ## Life
-I am extremely interested in technology, politics(military) and chinese culture. Specially, I can read ancient chinese characters faster than modern chinese, feel energetic to think about politics and explore new knowledge of technology.
+I am extremely interested in technology, politics & military and chinese culture. Specially, I can read ancient chinese characters faster than modern chinese, feel energetic to think about politics and explore new knowledge of technology.
 
 ## Skills
 1. Language: Mandarin(Native), English(Professional), C, Python, Matlab.
