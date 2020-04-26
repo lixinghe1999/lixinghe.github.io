@@ -19,12 +19,10 @@
 
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC in China.
-My major is automation and now study in UC Berkeley as visiting student.
-Prof. Shijia Pan from UC Merced is my advisor now.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now and my advisor is Prof. Shijia Pan from UC Merced and Prof. Yanjun Li from UESTC.
 
 ## Research interest
-My previous research project includes circuit design and signal processing, as well as optimization model. I am particularly interested in the Cyber-physical world, where I can apply my model in real-world.
+My previous research project includes circuit design and signal processing, as well as optimization model. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
 
 ## Experience
 1. Visit student of National University of Singapore(Singapore), 2018
@@ -32,8 +30,8 @@ My previous research project includes circuit design and signal processing, as w
 3. Earth information detection lab, signal processing in well digging(Chengdu, China), 2018, 2019
 4. Undergraduate internship of China Academy Of Engineering Physics, machine learning in physics(Beijing, China), 2019
 5. National mathematics modelling contest, responsible to modelling(Chengdu, China), 2019
-6. Visiting Student of UC Berkeley(Berkeley, US), 2020
-7. Intern student of UC Merced, sensor self-calibration(Merced, US), 2020
+6. Visiting Student of UC Berkeley, optimization model, DSP, AI(Berkeley, US), 2020
+7. Intern student of UC Merced, sensor self-calibration based on sensor fusion(Merced, US), 2020
 
 ## Award
 1. Great student scholarship of China in UESTC, 2018, 2019
