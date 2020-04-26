@@ -16,7 +16,7 @@
     </td>
   </tr>
 </table>
-
+<a href="selfphoto.jpg" download>Link text</a>
 ## Introduction
 Hello, my name is Lixing He, an undergraduate student from UESTC in China.
 My major is automation and now study in UC Berkeley as visiting student.
