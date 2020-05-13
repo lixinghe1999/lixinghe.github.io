@@ -22,15 +22,15 @@
 Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now and my advisor is Prof. Shijia Pan from UC Merced and Prof. Yanjun Li from UESTC.
 
 ## Research interest
-My previous research project includes circuit design and signal processing, as well as optimization model. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
+My previous research interest includes signal processing and optimization modelling. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
 
 ## Experience
 1. Visit student of National University of Singapore(Singapore), 2018
-2. Campus electronic design contest(Chengdu, China) 2018
-3. Earth information detection lab, signal processing in well digging(Chengdu, China), 2018, 2019
+2. Campus electronic design contest, design signal generator(Chengdu, China) 2018
+3. Earth information detection lab, signal processing in oil digging(Chengdu, China), 2018, 2019
 4. Undergraduate internship of China Academy Of Engineering Physics, machine learning in physics(Beijing, China), 2019
-5. National mathematics modelling contest, responsible to modelling(Chengdu, China), 2019
-6. Visiting Student of UC Berkeley, optimization model, DSP, AI(Berkeley, US), 2020
+5. National mathematics modelling contest, optimization modelling(Chengdu, China), 2019
+6. Visiting Student of UC Berkeley. Course: optimization model, Digital Signal Processing, Intro to AI(Berkeley, US), 2020
 7. Intern student of UC Merced, sensor self-calibration based on sensor fusion(Merced, US), 2020
 
 ## Award
@@ -45,7 +45,7 @@ My previous research project includes circuit design and signal processing, as w
 4. Department leader in student union, 2018, 2019
 
 ## Life
-I am interested in technology, history, politics, military and Chinese traditional culture. I keep chasing the trend of technology, especially in sensing and control. As for history & politics & military, I feel excited to hear the legends. For example, general Jiang Wei(姜维) tried his best to save the country, and general Washington bravely led the Us independent war. Additionally, I follow the ancient Chinese quotes:" help the people, respect the nature and inherit the great knowledge from past", which is the source of my motivation in study.
+I am interested in technology, history, politics, military and Chinese traditional culture. I keep chasing the trend of technology, especially in sensing and control. As for history & politics & military, I feel excited to hear the legends.
 
 ## Skills
 1. Language: Mandarin(Native), English(Professional), C, Python, Matlab.
