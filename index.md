@@ -2,7 +2,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Lixing He(何力行)</h1><a href="cv.doc" download>CV</a> <a href="transcript.pdf" download>Transcript</a>
+      <h1>Lixing He(何力行)</h1>
+      <a href="cv.doc" download>Full CV</a>
+      <a href="transcript.pdf" download>Transcript</a>
       <p><b>undergraduate</b></p>
       <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
