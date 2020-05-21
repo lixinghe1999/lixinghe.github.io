@@ -13,7 +13,7 @@
       <p><b>Toefl: 98, GRE: 328</b></p>
       <p><b>Aim at obtaining graduate degree in US</b></p>
     </td>
-    <td width="40%",height="100">
+    <td width="40%",height="60%">
       <img src="selfphoto.jpg" width="100%">     
     </td>
   </tr>
