@@ -5,16 +5,15 @@
       <h1>Lixing He(何力行)</h1>
       <a href="cv.pdf" download>Full CV</a>
       <a href="transcript.pdf" download>Transcript</a>
-      <p><b>undergraduate</b></p>
+      <p><b>Undergraduate</b></p>
       <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
-      <p><b>Xiyuan ave 2006, Chengdu</b></p>
       <p><b>GPA: 90/100, Rank: 7/315</b></p>
       <p><b>GPA: 4/4 at UC Berkeley</b></p>
       <p><b>Toefl: 98, GRE: 328</b></p>
       <p><b>Aim at obtaining graduate degree in US</b></p>
     </td>
-    <td width="40%">
+    <td width="40%",height="100">
       <img src="selfphoto.jpg" width="100%">     
     </td>
   </tr>
@@ -22,7 +21,7 @@
 
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now. My advisor is Prof. <a href="www.baidu.com" target="_blank">Shijia Pan</a> from UC Merced currently.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now. My advisor is Prof. Shijia Pan from UC Merced currently.
 
 ## Research interest
 My previous research interest includes signal processing and optimization modelling. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
