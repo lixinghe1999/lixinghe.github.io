@@ -3,13 +3,14 @@
   <tr>
     <td width="75%">
       <h1>Lixing He(何力行)</h1>
-      <a href="cv.doc" download>Full CV</a>
+      <a href="cv.pdf" download>Full CV</a>
       <a href="transcript.pdf" download>Transcript</a>
       <p><b>undergraduate</b></p>
       <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
       <p><b>Xiyuan ave 2006, Chengdu</b></p>
-      <p><b>GPA: 90/100, Rank: 9/315</b></p>
+      <p><b>GPA: 90/100, Rank: 7/315</b></p>
+      <p><b>GPA: 4/4 at UC Berkeley</b></p>
       <p><b>Toefl: 98, GRE: 328</b></p>
       <p><b>Aim at obtaining graduate degree in US</b></p>
     </td>
@@ -21,7 +22,7 @@
 
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now and my advisor is Prof. Shijia Pan from UC Merced and Prof. Yanjun Li from UESTC.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now. My advisor is Prof. <a href="www.baidu.com" target="_blank">Shijia Pan</a> from UC Merced currently.
 
 ## Research interest
 My previous research interest includes signal processing and optimization modelling. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
@@ -46,10 +47,10 @@ My previous research interest includes signal processing and optimization modell
 3. Recruitment head of UESTC in Jiangxi province, 2018
 4. Department leader in student union, 2018, 2019
 
-## Life
-I am interested in technology, history, politics, military and Chinese traditional culture. I keep chasing the trend of technology, especially in sensing and control. As for history & politics & military, I feel excited to hear the legends.
 
-## Skills
-1. Language: Mandarin(Native), English(Professional), C, Python, Matlab.
+## Skills and favor
+1. Language: Mandarin(Native), English(Professional), C, Python, Matlab, verilog.
 2. Sports: Badminton, Tennis.
+3. Favor: History, technology
+
 
