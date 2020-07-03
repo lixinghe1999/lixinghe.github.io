@@ -11,7 +11,7 @@
       <p><b>GPA: 90/100, Rank: 7/315</b></p>
       <p><b>GPA: 4/4 at UC Berkeley</b></p>
       <p><b>Toefl: 98, GRE: 328</b></p>
-      <p><b>Aim at obtaining graduate degree in US</b></p>
+      <p><b>Prospective graduate student</b></p>
     </td>
     <td width="40%">
       <img src="selfphoto.jpg" width="100%">     
@@ -21,10 +21,10 @@
 
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I study at UC Berkeley as visiting student now. My advisor is Prof. Shijia Pan from UC Merced currently.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with Prof.Shijia Pan from UC Merced. Now I am collaborating with Prof. Jun Han from National University of Singapore.
 
 ## Research interest
-My previous research interest includes signal processing and optimization modelling. I am particularly interested in the application of Cyber-physical system, where I can apply my model in real-world.
+My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
 
 ## Experience
 1. Visit student of National University of Singapore(Singapore), 2018
@@ -34,6 +34,7 @@ My previous research interest includes signal processing and optimization modell
 5. National mathematics modelling contest, optimization modelling(Chengdu, China), 2019
 6. Visiting Student of UC Berkeley. Course: optimization model, Digital Signal Processing, Intro to AI(Berkeley, US), 2020
 7. Intern student of UC Merced, sensor self-calibration based on sensor fusion(Merced, US), 2020
+8. Research Assistant of National University of Singapore, Cyber-physical security(Singapore), 2020
 
 ## Award
 1. Great student scholarship of China in UESTC, 2018, 2019
