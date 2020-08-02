@@ -20,7 +20,7 @@
 </table>
 
 ## News
-Our paper "SCSV2: Physics-informed Self-Configuration Sensing through Vision and Vibration Context Modeling" will appear at the Third Workshop of Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD 2020) as part of Ubicomp 2020.<a href="2020_CPD_Lixing" download>PDF</a>
+Our paper "SCSV2: Physics-informed Self-Configuration Sensing through Vision and Vibration Context Modeling" will appear at the Third Workshop of Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD 2020) as part of Ubicomp 2020.<a href="2020_CPD_Lixing.pdf" download>PDF</a>
 
 ## Introduction
 Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with <a href="https://www.pans-lab.com/">Prof. Shijia Pan</a>from UC Merced. Now I am collaborating with <a href="https://www.comp.nus.edu.sg/~junhan/">Prof. Jun Han</a> from National University of Singapore.
