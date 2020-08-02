@@ -3,13 +3,13 @@
   <tr>
     <td width="75%">
       <h1>Lixing He(何力行)</h1>
-      <a href="cv.pdf" download>Full CV</a>
-      <a href="transcript.pdf" download>Transcript</a>
+      <p><a href="cv.pdf" download>Full CV download</a></p>
+      <p><a href="transcript.pdf" download>Transcript download</a></p>
       <p><b>Undergraduate</b></p>
       <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
       <p><b>helixing99@gmail.com</b></p>
-      <p><b>GPA: 90/100, Rank: 7/315</b></p>
-      <p><b>GPA: 4/4 at UC Berkeley</b></p>
+      <p><b>GPA: 90.4/100, Rank: 7/315</b></p>
+      <p><b>GPA: 4.0/4.0 at UC Berkeley</b></p>
       <p><b>Toefl: 98, GRE: 328</b></p>
       <p><b>Prospective graduate student</b></p>
     </td>
@@ -20,10 +20,10 @@
 </table>
 
 ## News
-Our paper "SCSV2: Physics-informed Self-Configuration Sensing through Vision and Vibration Context Modeling" will appear at the Third Workshop of Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD 2020) as part of Ubicomp 2020.
+Our paper "SCSV2: Physics-informed Self-Configuration Sensing through Vision and Vibration Context Modeling" will appear at the Third Workshop of Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD 2020) as part of Ubicomp 2020.<a href="2020_CPD_Lixing" download>PDF</a>
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with Prof.Shijia Pan from UC Merced. Now I am collaborating with Prof. Jun Han from National University of Singapore.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with <a href="https://www.pans-lab.com/">Prof. Shijia Pan</a>from UC Merced. Now I am collaborating with <a href="https://www.comp.nus.edu.sg/~junhan/">Prof. Jun Han</a> from National University of Singapore.
 
 ## Research interest
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
