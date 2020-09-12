@@ -32,7 +32,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Well digging signal processing</h1>
+      <h2>Well digging signal processing</h2>
       <p><b>Nov 2018-Mar 2019</b</p>
       <p><b>UESTC, China</b</p>
       <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b</p>
@@ -46,7 +46,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Ham radio</h1>
+      <h3>Ham radio</h3>
       <p><b>Jan 2020-Oct 2020</b</p>
       <p><b>UC Berkeley, USA</b</p>
       <p><b>Receive and send ham radio, image&video compression</b</p>
