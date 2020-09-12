@@ -1,8 +1,8 @@
 ## Welcome to Lixing He's Homepage
+<h1>Lixing He(何力行)</h1>
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Lixing He(何力行)</h1>
       <p><a href="cv.pdf" download>Full CV download</a></p>
       <p><a href="transcript.pdf" download>Transcript download</a></p>
       <p><b>Undergraduate</b></p>
