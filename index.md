@@ -33,19 +33,13 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Lixing He(何力行)</h1>
-      <p><a href="cv.pdf" download>Full CV download</a></p>
-      <p><a href="transcript.pdf" download>Transcript download</a></p>
-      <p><b>Undergraduate</b></p>
-      <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
-      <p><b>helixing99@gmail.com</b></p>
-      <p><b>GPA: 90.4/100, Rank: 7/315</b></p>
-      <p><b>GPA: 4.0/4.0 at UC Berkeley</b></p>
-      <p><b>Toefl: 98, GRE: 328</b></p>
-      <p><b>Prospective graduate student</b></p>
+      <h2>Data-driven cross-modalities sensing quality evaluation(vision part)</h2>
+      <p><b>June 2020-Now</b</p>
+      <p><b>NUS, Singapore</b</p>
+      <p><b>Predict application performance with a smaller size of dataset</b</p>
     </td>
     <td width="40%">
-      <img src="selfphoto.jpg" width="100%">     
+      <img src="project4.jpg" width="100%">     
     </td>
   </tr>
 </table>
