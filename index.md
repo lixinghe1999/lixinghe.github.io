@@ -52,7 +52,7 @@ My research interest includes signal processing and optimization modelling, and 
       <p><b>Receive and send ham radio, image&video compression</b</p>
     </td>
     <td width="25%">
-      <img src="projec2.jpg" width="100%">     
+      <img src="project2.jpg" width="100%">     
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ My research interest includes signal processing and optimization modelling, and 
       <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b</p>
     </td>
     <td width="25%">
-      <img src="projec3.jpg" width="100%">     
+      <img src="project3.jpg" width="100%">     
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@ My research interest includes signal processing and optimization modelling, and 
       <p><b>Predict application performance with a smaller size of dataset</b</p>
     </td>
     <td width="25%">
-      <img src="projec4.jpg" width="100%">     
+      <img src="project4.jpg" width="100%">     
     </td>
   </tr>
 </table>
