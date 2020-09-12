@@ -29,10 +29,10 @@ Hello, my name is Lixing He, an undergraduate student from UESTC major in Automa
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
 
 # Project
+<h2>Well digging signal processing</h2>
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>Well digging signal processing</h2>
       <p><b>Nov 2018-Mar 2019</b</p>
       <p><b>UESTC, China</b</p>
       <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b</p>
