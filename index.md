@@ -29,10 +29,10 @@ Hello, my name is Lixing He, an undergraduate student from UESTC major in Automa
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
 
 # Project
+<h2>Data-driven cross-modalities sensing quality evaluation(vision part)</h2>
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Data-driven cross-modalities sensing quality evaluation(vision part)</h1>
       <p><b>June 2020-Now</b</p>
       <p><b>NUS, Singapore</b</p>
       <p><b>Predict application performance with a smaller size of dataset</b</p>
@@ -43,10 +43,10 @@ My research interest includes signal processing and optimization modelling, and 
   </tr>
 </table>
 
+<h3>Vibration sensor self-configuration based on sensor fusion</h3>
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Vibration sensor self-configuration based on sensor fusion</h1>
       <p><b>Jan 2020-June 2020</b</p>
       <p><b>UC Merced, USA</b</p>
       <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b</p>
@@ -57,10 +57,11 @@ My research interest includes signal processing and optimization modelling, and 
   </tr>
 </table>
 
+<h4>Ham radio</h4>
 <table border="0">
   <tr>
     <td width="75%">
-      <h3>Ham radio</h3>
+      
       <p><b>Jan 2020-Oct 2020</b</p>
       <p><b>UC Berkeley, USA</b</p>
       <p><b>Receive and send ham radio, image&video compression</b</p>
@@ -71,11 +72,11 @@ My research interest includes signal processing and optimization modelling, and 
   </tr>
 </table>
         
-       
+<h5>Pacman, intro to AI</h5>
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Pacman, intro to AI</h1>
+     
       <p><b>Jan 2020-May 2020</b</p>
       <p><b>UC Berkeley, USA</b</p>
       <p><b>Apply multiple AI algorithms in Pacman game</b</p>
@@ -86,7 +87,7 @@ My research interest includes signal processing and optimization modelling, and 
   </tr>
 </table>
 
-<h2>Well digging signal processing</h2>
+<h6>Well digging signal processing</h6>
 <table border="0">
   <tr>
     <td width="75%">
@@ -99,10 +100,6 @@ My research interest includes signal processing and optimization modelling, and 
     </td>
   </tr>
 </table>
-        
-        
-
-
 
 ## Award
 1. Great student scholarship of China in UESTC, 2018, 2019
