@@ -33,7 +33,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>Data-driven cross-modalities sensing quality evaluation(vision part)</h2>
+      <h2>Data-driven sensing quality evaluation(vision part)</h2>
       <p><b>June 2020-Now</b</p>
       <p><b>NUS, Singapore</b</p>
       <p><b>Predict application performance with a smaller size of dataset</b</p>
@@ -62,7 +62,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h4>Ham radio</h4>
+      <h4>Ham radio and digital signal processing</h4>
       <p><b>Jan 2020-Oct 2020</b</p>
       <p><b>UC Berkeley, USA</b</p>
       <p><b>Receive and send ham radio, image&video compression</b</p>
@@ -77,7 +77,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h5>Pacman, intro to AI</h5>
+      <h5>Pacman, intro to AI class project</h5>
       <p><b>Jan 2020-May 2020</b</p>
       <p><b>UC Berkeley, USA</b</p>
       <p><b>Apply multiple AI algorithms in Pacman game</b</p>
