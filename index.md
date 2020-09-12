@@ -47,21 +47,6 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h2>Data-driven cross-modalities sensing quality evaluation(vision part)</h2>
-      <p><b>June 2020-Now</b</p>
-      <p><b>NUS, Singapore</b</p>
-      <p><b>Predict application performance with a smaller size of dataset</b</p>
-    </td>
-    <td width="40%">
-      <img src="project4.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
-
-
-<table border="0">
-  <tr>
-    <td width="75%">
       <h3>Vibration sensor self-configuration based on sensor fusion</h3>
       <p><b>Jan 2020-June 2020</b</p>
       <p><b>UC Merced, USA</b</p>
