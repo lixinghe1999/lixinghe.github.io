@@ -29,7 +29,26 @@ Hello, my name is Lixing He, an undergraduate student from UESTC major in Automa
 ## Research interest
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
 
-# Project
+## Project
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Lixing He(何力行)</h1>
+      <p><a href="cv.pdf" download>Full CV download</a></p>
+      <p><a href="transcript.pdf" download>Transcript download</a></p>
+      <p><b>Undergraduate</b></p>
+      <p><b>Automation college of UESTC(University of electronic science and technology of China, Chengdu)</b></p>
+      <p><b>helixing99@gmail.com</b></p>
+      <p><b>GPA: 90.4/100, Rank: 7/315</b></p>
+      <p><b>GPA: 4.0/4.0 at UC Berkeley</b></p>
+      <p><b>Toefl: 98, GRE: 328</b></p>
+      <p><b>Prospective graduate student</b></p>
+    </td>
+    <td width="40%">
+      <img src="selfphoto.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
 
 <table border="0">
   <tr>
