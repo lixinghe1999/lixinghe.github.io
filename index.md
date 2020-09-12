@@ -47,7 +47,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h3>Vibration sensor self-configuration based on sensor fusion</h3>
+      <h2>Vibration sensor self-configuration based on sensor fusion</h2>
       <p><b>Jan 2020-June 2020</b></p>
       <p><b>UC Merced, USA</b></p>
       <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b></p>
@@ -62,7 +62,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h4>Ham radio and digital signal processing</h4>
+      <h2>Ham radio and digital signal processing</h2>
       <p><b>Jan 2020-Oct 2020</b></p>
       <p><b>UC Berkeley, USA</b></p>
       <p><b>Receive and send ham radio, image&video compression</b></p>
@@ -77,7 +77,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h5>Pacman, intro to AI class project</h5>
+      <h2>Pacman, intro to AI class project</h2>
       <p><b>Jan 2020-May 2020</b></p>
       <p><b>UC Berkeley, USA</b></p>
       <p><b>Apply multiple AI algorithms in Pacman game</b></p>
@@ -92,7 +92,7 @@ My research interest includes signal processing and optimization modelling, and 
 <table border="0">
   <tr>
     <td width="75%">
-      <h6>Well digging signal processing</h6>
+      <h2>Well digging signal processing</h2>
       <p><b>Nov 2018-Mar 2019</b></p>
       <p><b>UESTC, China</b></p>
       <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b></p>
