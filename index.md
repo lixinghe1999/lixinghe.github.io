@@ -34,9 +34,9 @@ My research interest includes signal processing and optimization modelling, and 
   <tr>
     <td width="75%">
       <h2>Data-driven sensing quality evaluation(vision part)</h2>
-      <p><b>June 2020-Now</b</p>
-      <p><b>NUS, Singapore</b</p>
-      <p><b>Predict application performance with a smaller size of dataset</b</p>
+      <p><b>June 2020-Now</b></p>
+      <p><b>NUS, Singapore</b></p>
+      <p><b>Predict application performance with a smaller size of dataset</b></p>
     </td>
     <td width="40%">
       <img src="project4.jpg" width="100%">     
@@ -48,9 +48,9 @@ My research interest includes signal processing and optimization modelling, and 
   <tr>
     <td width="75%">
       <h3>Vibration sensor self-configuration based on sensor fusion</h3>
-      <p><b>Jan 2020-June 2020</b</p>
-      <p><b>UC Merced, USA</b</p>
-      <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b</p>
+      <p><b>Jan 2020-June 2020</b></p>
+      <p><b>UC Merced, USA</b></p>
+      <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b></p>
     </td>
     <td width="40%">
       <img src="project3.jpg" width="100%">     
@@ -63,9 +63,9 @@ My research interest includes signal processing and optimization modelling, and 
   <tr>
     <td width="75%">
       <h4>Ham radio and digital signal processing</h4>
-      <p><b>Jan 2020-Oct 2020</b</p>
-      <p><b>UC Berkeley, USA</b</p>
-      <p><b>Receive and send ham radio, image&video compression</b</p>
+      <p><b>Jan 2020-Oct 2020</b></p>
+      <p><b>UC Berkeley, USA</b></p>
+      <p><b>Receive and send ham radio, image&video compression</b></p>
     </td>
     <td width="40%">
       <img src="project2.jpg" width="100%">     
@@ -78,9 +78,9 @@ My research interest includes signal processing and optimization modelling, and 
   <tr>
     <td width="75%">
       <h5>Pacman, intro to AI class project</h5>
-      <p><b>Jan 2020-May 2020</b</p>
-      <p><b>UC Berkeley, USA</b</p>
-      <p><b>Apply multiple AI algorithms in Pacman game</b</p>
+      <p><b>Jan 2020-May 2020</b></p>
+      <p><b>UC Berkeley, USA</b></p>
+      <p><b>Apply multiple AI algorithms in Pacman game</b></p>
     </td>
     <td width="40%">
       <img src="project5.jpg" width="100%">     
@@ -93,9 +93,9 @@ My research interest includes signal processing and optimization modelling, and 
   <tr>
     <td width="75%">
       <h6>Well digging signal processing</h6>
-      <p><b>Nov 2018-Mar 2019</b</p>
-      <p><b>UESTC, China</b</p>
-      <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b</p>
+      <p><b>Nov 2018-Mar 2019</b></p>
+      <p><b>UESTC, China</b></p>
+      <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b></p>
     </td>
     <td width="40%">
       <img src="project1.jpg" width="100%">     
