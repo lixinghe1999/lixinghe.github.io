@@ -23,7 +23,7 @@
 Our paper "SCSV2: Physics-informed Self-Configuration Sensing through Vision and Vibration Context Modeling" will appear at the Third Workshop of Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD 2020) as part of Ubicomp 2020.<a href="2020_CPD_Lixing.pdf" download>PDF</a>
 
 ## Introduction
-Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with <a href="https://www.pans-lab.com/">Prof. Shijia Pan</a>from UC Merced. Now I am collaborating with <a href="https://www.comp.nus.edu.sg/~junhan/">Prof. Jun Han</a> from National University of Singapore.
+Hello, my name is Lixing He, an undergraduate student from UESTC major in Automation. I studied at UC Berkeley as exchange student in Spring 2020 and worked with <a href="https://www.pans-lab.com/">Prof. Shijia Pan</a> from UC Merced. Now I am collaborating with <a href="https://www.comp.nus.edu.sg/~junhan/">Prof. Jun Han</a> from National University of Singapore.
 
 ## Research interest
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
@@ -53,6 +53,20 @@ My research interest includes signal processing and optimization modelling, and 
     </td>
     <td width="25%">
       <img src="project2.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+        
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Pacman, intro to AI</h1>
+      <p><b>Jan 2020-May 2020</b</p>
+      <p><b>UC Berkeley, USA</b</p>
+      <p><b>Apply multiple AI algorithms in Pacman game</b</p>
+    </td>
+    <td width="25%">
+      <img src="project5.jpg" width="100%">     
     </td>
   </tr>
 </table>
