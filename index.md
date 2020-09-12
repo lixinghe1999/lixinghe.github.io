@@ -29,51 +29,19 @@ Hello, my name is Lixing He, an undergraduate student from UESTC major in Automa
 My research interest includes signal processing and optimization modelling, and their applications on Cyber-physical system and Security.
 
 # Project
-
-<h2>Well digging signal processing</h2>
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Nov 2018-Mar 2019</b</p>
-      <p><b>UESTC, China</b</p>
-      <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b</p>
+      <h1>Data-driven cross-modalities sensing quality evaluation(vision part)</h1>
+      <p><b>June 2020-Now</b</p>
+      <p><b>NUS, Singapore</b</p>
+      <p><b>Predict application performance with a smaller size of dataset</b</p>
     </td>
-    <td width="25%">
-      <img src="project1.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
-        
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h3>Ham radio</h3>
-      <p><b>Jan 2020-Oct 2020</b</p>
-      <p><b>UC Berkeley, USA</b</p>
-      <p><b>Receive and send ham radio, image&video compression</b</p>
-    </td>
-    <td width="25%">
-      <img src="project2.jpg" width="100%">     
+    <td width="40%">
+      <img src="project4.jpg" width="100%">     
     </td>
   </tr>
 </table>
-        
-        
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Pacman, intro to AI</h1>
-      <p><b>Jan 2020-May 2020</b</p>
-      <p><b>UC Berkeley, USA</b</p>
-      <p><b>Apply multiple AI algorithms in Pacman game</b</p>
-    </td>
-    <td width="25%">
-      <img src="project5.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
-
 
 <table border="0">
   <tr>
@@ -83,26 +51,56 @@ My research interest includes signal processing and optimization modelling, and 
       <p><b>UC Merced, USA</b</p>
       <p><b>Based on physical knowledge, automatically find the location of sensors without human annotation</b</p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="project3.jpg" width="100%">     
     </td>
   </tr>
 </table>
-        
-        
+
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Data-driven cross-modalities sensing quality evaluation(vision part)</h1>
-      <p><b>June 2020-Now</b</p>
-      <p><b>NUS, Singapore</b</p>
-      <p><b>Predict application performance with a smaller size of dataset</b</p>
+      <h3>Ham radio</h3>
+      <p><b>Jan 2020-Oct 2020</b</p>
+      <p><b>UC Berkeley, USA</b</p>
+      <p><b>Receive and send ham radio, image&video compression</b</p>
     </td>
-    <td width="25%">
-      <img src="project4.jpg" width="100%">     
+    <td width="40%">
+      <img src="project2.jpg" width="100%">     
     </td>
   </tr>
 </table>
+        
+       
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Pacman, intro to AI</h1>
+      <p><b>Jan 2020-May 2020</b</p>
+      <p><b>UC Berkeley, USA</b</p>
+      <p><b>Apply multiple AI algorithms in Pacman game</b</p>
+    </td>
+    <td width="40%">
+      <img src="project5.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
+<h2>Well digging signal processing</h2>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Nov 2018-Mar 2019</b</p>
+      <p><b>UESTC, China</b</p>
+      <p><b>Building the algorithm on FPGA which classify different signal sources received by a well digger</b</p>
+    </td>
+    <td width="40%">
+      <img src="project1.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+        
+        
 
 
 
